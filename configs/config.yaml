@@ -1,0 +1,17 @@
+DARWIN_TOPIC_HOST: darwin-dist-44ae45.nationalrail.co.uk
+DARWIN_TOPIC_PORT: 61613
+DARWIN_TOPIC_NAME: /topic/darwin.pushport-v16
+
+DARWIN_HEARTBEAT_MS: 15000
+DARWIN_RECONNECT_DELAY_SECS: 15
+DARWIN_SUBSCRIPTION_ID: "1"
+DARWIN_ACK_MODE: auto
+
+DARWIN_TOPIC_USERNAME: DARWINd31a4d4a-7b64-4260-ad20-eeb80d7fb98c
+DARWIN_TOPIC_PASSWORD: d6d5dc96-195c-4ca8-931a-0430549321b0
+
+
+HSP_SERVICE_METRICS_URL: "https://hsp-prod.rockshore.net/api/v1/serviceMetrics"
+HSP_SERVICE_DETAILS_URL: "https://hsp-prod.rockshore.net/api/v1/serviceDetails"
+HSP_USERNAME: "m.golchehreh@uea.ac.uk"
+HSP_PASSWORD: "NMG123456nim@masgol"
